@@ -1,11 +1,11 @@
 # Site settings
 author: Rabiah Hogans
-title: 
+title: “Why I decided to study Software Engineering?"
 header-img: img/home-bg.png
 email: hogansrabiah@gmail.com
 copyright_name: Rabiah Hogans
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Making the right choice
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  rbhogans
