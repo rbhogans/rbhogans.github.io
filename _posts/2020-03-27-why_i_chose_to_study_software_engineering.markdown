@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "why I chose to study software engineering."
-date:       2020-03-27 19:09:32 +0000
+date:       2020-03-27 15:09:33 -0400
 permalink:  why_i_chose_to_study_software_engineering
 ---
 
 
-     Lets start at the beginning. I did not realize how choices you make  can be a determing factor for how your life can potentially turn out. My career goal in life after highschool was to be happy and successful. Thats it, nothing more nothing less. I wasn't as serious as I shoulve, been back then. Not fine tuning this goal was like a double edge sword in a sense but I would  be here had it been  one path I suppose. Not doing so ultimatly  is how I ended up here and Godwilling will changed my life for the good.
+   Lets start at the beginning. I did not realize how choices you make  can be a determing factor for how your life can potentially turn out. My career goal in life after highschool was to be happy and successful. Thats it, nothing more nothing less. I wasn't as serious as I shoulve, been back then. Not fine tuning this goal was like a double edge sword in a sense but I would  be here had it been  one path I suppose. Not doing so ultimatly  is how I ended up here and Godwilling will changed my life for the good.
 
      Anyways, my career path began when computer technology wasn't as accessible during my upbringing until after highschool. Mind you with that same goal untweaked not realizing this computer thing meant the world as I new it was going to change forever. As soon as technology did become accessible, it  drastically took over every aspect of life. I mean everything, from talking on the phoneto added texting and emailing daily not to mention, schooling fulltime.  By the way I love socializing so  naturally, the communicaton aspect of  computer technology quickly became  a passion. Communicating became so easy accross the nation.
 
